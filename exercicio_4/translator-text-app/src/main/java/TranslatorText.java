@@ -9,7 +9,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 public class TranslatorText {
-    private static String key = "8465a960efd14bec91801a9cc6c43fbf ";
+    private static String key = "____________ ";
     
     // location, also known as region.
    // required if you're using a multi-service or regional (not global) resource. It can be found in the Azure portal on the Keys and Endpoint page.
